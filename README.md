@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="LinkdIn Baneer.png" alt="LinkedIn Banner" />
-</p>
+
 <h1 align="center">Hi👋, it's Priyanka !</h1>
 <h3 align="center">A passionate GenAI backend developer from India</h3>
 
